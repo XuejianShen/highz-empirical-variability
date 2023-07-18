@@ -1,0 +1,10 @@
+z    Muv    Phi  lo  up
+################################################################
+# z: redshift
+# Muv: absolute magnitude in the rest-frame UV
+# Phi: number density in units of comoving Mpc^-3 mag^-1
+# lo: lower 1-sigma uncertainty in Phi
+# up: upper 1-sigma uncertainty in Phi
+# (Finkelstein+2023 JWST CEERS)
+################################################################
+12   -20.3  2.0e-5  1.7e-5  4.6e-5

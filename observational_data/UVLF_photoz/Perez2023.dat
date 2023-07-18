@@ -1,0 +1,19 @@
+z Muv logPhi  lo  up
+################################################################
+# z: redshift
+# Muv: absolute magnitude in the rest-frame UV
+# logPhi: log10 of number density in units of comoving Mpc^-3 mag^-1
+# lo: lower 1-sigma uncertainty in logPhi
+# up: upper 1-sigma uncertainty in logPhi
+# (Perez Gonzalez+2023 JWST)
+################################################################
+9  -19.5 -4.17 0.61 0.25 
+9  -18.5 -3.53 0.20 0.14 
+9  -17.5 -2.77 0.11 0.11 
+9  -16.5 -2.30 0.27 0.16
+##
+10 -18.5 -3.57 0.32 0.18 
+10 -17.5 -2.82 0.34 0.20
+##
+12 -18.3 -3.47 0.40 0.20 
+12 -17.3 -2.87 0.50 0.23

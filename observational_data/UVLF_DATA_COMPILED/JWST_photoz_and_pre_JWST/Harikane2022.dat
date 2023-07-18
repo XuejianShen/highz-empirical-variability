@@ -1,0 +1,13 @@
+z  Muv    dMuv  Phi  lo   up
+################################################################
+# z: redshift
+# Muv: absolute magnitude in the rest-frame UV
+# dMuv: half of the magnitude bin size [Muv-dMuv, Muv+dMuv] 
+# Phi: number density in units of comoving Mpc^-3 mag^-1
+# lo: lower 1-sigma uncertainty in Phi
+# up: upper 1-sigma uncertainty in Phi
+# (Harikane+2022 search for H-dropouts at z>12)
+################################################################
+13 -23.5  0.5   3.7e-8  3.0e-8  8.4e-8
+#GN-z11 
+10 -21.85 0.25  1.0e-6  0.8e-6  2.2e-6

@@ -1,0 +1,29 @@
+z Muv dMuv2 Phi lo up
+################################################################
+# z: redshift
+# Muv: absolute magnitude in the rest-frame UV
+# dMuv2: full magnitude bin size [Muv-dMuv2/2, Muv+dMuv2/2]
+# Phi: number density in units of comoving Mpc^-3 mag^-1
+# lo: lower 1-sigma uncertainty in Phi
+# up: upper 1-sigma uncertainty in Phi
+# (Donnan+2023 SMACS0723 + GLASS + CEERS)
+################################################################
+##
+8 -22.17 1.0 0.63e-6 0.30e-6 0.50e-6 
+8 -21.42 0.5 3.92e-6 1.56e-6 2.34e-6 
+##
+9 -22.30 1.0 0.17e-6 0.14e-6 0.40e-6  
+9 -21.30 1.0 3.02e-6 1.95e-6 3.98e-6  
+9 -18.50 1.0 1200e-6  476e-6  717e-6  
+## note that z = 10.5 -> z=10 for plotting
+10 -22.57 1.0   0.18e-6 0.15e-6 0.42e-6 
+10 -20.10 1.0   16.2e-6 10.5e-6 21.4e-6 
+10 -19.35 0.5  136.0e-6 47.1e-6 67.2e-6 
+10 -18.85 0.5  234.9e-6 76.8e-6  107e-6  
+10 -18.23 0.75 630.8e-6  233e-6  340e-6  
+## note that z = 13.25 -> z=12
+12 -20.35 1.7 10.3e-6 5.59e-6 9.98e-6 
+12 -19.00 1.0 27.4e-6 13.1e-6 21.7e-6
+## note that z = 13.25 -> z=16
+16 -20.35 1.7 10.3e-6 5.59e-6 9.98e-6 
+16 -19.00 1.0 27.4e-6 13.1e-6 21.7e-6
