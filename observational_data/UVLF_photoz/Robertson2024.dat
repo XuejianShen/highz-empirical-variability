@@ -1,0 +1,22 @@
+z Muv dMuv_up dMuv_lo Phi dPhi
+################################################################
+# z: redshift
+# Muv: absolute magnitude in the rest-frame UV
+# dMuv_up: upper 1-sigma uncertainty in Muv
+# dMuv_lo: lower 1-sigma uncertainty in Muv
+# Phi: number density in units of 10^{-4} comoving Mpc^-3 mag^-1
+# dPhi: upper 1-sigma uncertainty in Phi
+# (Robertson+2024)
+################################################################
+## 11.5 < z < 13.5
+12 -18.5 0.18 0.48  1.22  0.94
+12 -18.0 0.14 0.18  3.20  2.46
+12 -17.6 0.65 0.19  1.54  1.18
+##
+13 -18.5 0.18 0.48  1.22  0.94
+13 -18.0 0.14 0.18  3.20  2.46
+13 -17.6 0.65 0.19  1.54  1.18
+## 13.5 < z < 15
+14 -20.8 2.12 0.32  0.371 0.357
+14 -18.4 0.16 0.50  2.56  2.46
+14 -18.1 1.13 0.23  0.783 0.754

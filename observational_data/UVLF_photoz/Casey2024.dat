@@ -1,0 +1,13 @@
+z  Muv  dMuv2   Phi  dPhi  lo    up
+################################################################
+# z: redshift
+# Muv: absolute magnitude in the rest-frame UV
+# dMuv: the magnitude bin size 
+# Phi: number density in units of comoving 1e-6 Mpc^-3 mag^-1
+# lo: lower 1-sigma uncertainty in Phi
+# up: upper 1-sigma uncertainty in Phi
+# dPhi for simplicity is the average of lo and up
+################################################################
+11  -22.0  0.8  1.0  0.35 0.4  0.3
+11  -21.2  0.8  1.4  0.5  0.5  0.5
+14  -21.0  1.0  0.81 0.42 0.42 0.42

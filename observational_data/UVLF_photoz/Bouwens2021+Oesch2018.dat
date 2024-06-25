@@ -26,7 +26,9 @@ z  Muv  Phi  dPhi
 12 -19.96 0.000032 0.000032
 16 -21.96 0.000018 0.000014
 # note that
-# z = 13 changed to 12
+# z = 13 changed to both 12 and 14
+14 -20.96 0.000010 0.000008 
+14 -19.96 0.000032 0.000032
 # z = 17 changed to 16 for plotting purpose
 # Bouwens2023b
 #10 -18.90 0.000086 0.000120 
